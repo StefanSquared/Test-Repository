@@ -1,0 +1,23 @@
+{
+  "name": "uchime-so-korona-chan",
+  "version": "1.0.0",
+  "description": "simple CLI that demonstrates fetching information from the OMDB api",
+  "main": "fetch_omdb.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanSquared/Test-Repository.git"
+  },
+  "author": "Stefan Stefanovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanSquared/Test-Repository/issues"
+  },
+  "homepage": "https://github.com/StefanSquared/Test-Repository#readme"
+}
