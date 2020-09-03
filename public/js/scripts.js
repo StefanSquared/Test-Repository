@@ -1,5 +1,5 @@
 function LoadEventHandler(){
-	document.getElementsByTagName("body")[0].innerHTML = "<img src='evil-morty.jpg'></img>"
+	document.html("<h1> Dynamic HTML test </h1>")
 }
 
 document.addEventListener("DOMContentLoaded", LoadEventHandler);
