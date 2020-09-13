@@ -4,7 +4,7 @@
   "description": "simple CLI that demonstrates fetching information from the OMDB api",
   "main": "fetch_omdb.js",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
